@@ -1,0 +1,85 @@
+/*=====================================================
+	Template Name : MRT Web Solutions HTML 5 Responsive Template.
+	Author Name   : Mukti Romin Tarin;
+	Author Url    : ......;
+	Decripation   : This is a one page HTML 5 Responsive Template.
+	Version       : 1.0 ;
+=======================================================*/
+
+/* ======= CSS Document ========= */
+
+/************ TABLE OF CONTENTS ***************
+
+01. Fonts
+02. General css
+00. Footer Area css
+00. jquery css
+
+
+**************************************/
+
+/* ================= 01.Fonts ================ */
+
+
+/* ================
+	02.General css
+=================== */
+a, a:hover{
+	text-decoration:none;
+}
+a{
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+ul, li{
+	list-style:none;
+}
+ul{
+	margin-bottom:0px;
+	padding-left:0px;
+}
+body{
+	overflow-x:hidden;
+	font-size:14px;
+}
+html, body{
+	height:100%;
+}
+p{
+	margin-bottom:0px;
+}
+h1,h2,h3,h4,h5,h6 {
+	margin-top:0px;
+	margin-bottom:0px;
+}
+/*-- stats --*/
+.w3layouts_stats_left{
+	padding:5em 0;
+	text-align:center;
+}
+.w3layouts_stats_left p{
+	font-size: 2em;
+    font-weight: 600;
+    letter-spacing: 5px;
+    color: #fff;
+}
+.w3layouts_stats_left h3{
+	font-size:1.2em;
+	color:#fff;
+}
+.w3_counter_grid{
+	background:#ec9114;
+}
+.w3_counter_grid1{
+	background:#0accff;
+}
+.w3_counter_grid2{
+	background:#00d21f;
+}
+.w3_counter_grid3{
+	background:#940fe0;
+}
+.w3l_stats_bottom_grid_left img{
+	margin:0 auto;
+}
+/*-- //stats --*/
